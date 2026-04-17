@@ -1,6 +1,8 @@
 # replication_code_JEEM_anemia
 notebooks needed to replicate the JEEM-D-25-00707
 
+Before running the code blocks, you need to download or register to access the following datasets :
+
 ### DHS data 
 
 The National Family Health survey data are publicly available from the U.S. Department of Homeland Security (DHS) and can be accessed through its official data platforms following a standard user registration process. Researchers are required to create an account on the DHS data portal to obtain access to the datasets. Once registered, the data can be freely downloaded in accordance with DHS terms of use, including any applicable attribution and data protection requirements.
