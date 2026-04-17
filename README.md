@@ -36,3 +36,6 @@ For replicating the analysis, the following datasets have to be downloaded and e
 
 ### ERA5 data
 The climate data are publicly available from de Climate Data Store (CDS). Although they can be downloaded manually, we provide a script that automatically download the required data using the CDS API. To use this script properly, one should follow the instruction provided by the Copernicus CDS that can be found on the following link. https://cds.climate.copernicus.eu/how-to-api
+
+### Malaria data
+The data on Annual Paratistic Incidence (API) at district level are available on the following link. https://ncvbdc.mohfw.gov.in/Doc/Annual-Report-2018.pdf
