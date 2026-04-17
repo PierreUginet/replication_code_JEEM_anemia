@@ -33,3 +33,6 @@ For replicating the analysis, the following datasets have to be downloaded and e
   * 0_input/DHS_data/input/IA_2019-21_DHS/IAPR7EDT_HHmembers_Stata/IAPR7EFL.DTA 
 * 2019 Geographic Data: IAGE7AFL.ZIP (2.21 MB, Shape file) to
   * 0_input/DHS_data/input/IA_2019-21_DHS/IAGE7AFL_GeoData_shp/IAGE7AFL.shp
+
+### ERA5 data
+The climate data are publicly available from de Climate Data Store (CDS). Although they can be downloaded manually, we provide a script that automatically download the required data using the CDS API. To use this script properly, one should follow the instruction provided by the Copernicus CDS that can be found on the following link. https://cds.climate.copernicus.eu/how-to-api
