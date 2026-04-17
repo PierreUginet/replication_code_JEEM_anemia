@@ -1,5 +1,6 @@
 # replication_code_JEEM_anemia
-notebooks needed to replicate the JEEM-D-25-00707
+This Gihub repo provides instructions and notebooks needed to replicate the JEEM-D-25-00707.
+Before runnnig any script, the following steps should be completed.
 
 ## Raw Datasets
 
@@ -50,6 +51,10 @@ In each folder, the files being used in the following stages are in the *output*
 
 
 ## Dependencies
+
+### Python requirements
+All package required are stored in file python_requirement.txt 
+The whole list of packages can be installed directly using pip install -r requirements.txt
 
 ### R sessionInfo()
 R version 4.4.3 (2025-02-28)
