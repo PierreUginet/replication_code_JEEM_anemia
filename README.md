@@ -43,6 +43,10 @@ The climate data are publicly available from de Climate Data Store (CDS). Althou
 The data on Annual Paratistic Incidence (API) at district level are available on the following link. We use data from 2018.
 [https://ncvbdc.mohfw.gov.in/Doc/Annual-Report-2018.pdf](https://ncvbdc.mohfw.gov.in/index1.php?lang=1&level=1&sublinkid=5784&lid=3689)
 
+## Code structure
+
+In each folder, the files being used in the following stages are in the *output* folder. The files being intermediaries within each stage are in the *interm* folder.
+
 
 ## Dependencies
 
