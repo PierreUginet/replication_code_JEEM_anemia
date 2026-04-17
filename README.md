@@ -24,7 +24,7 @@ For replicating the analysis, the following datasets have to be downloaded and e
   * 0_input/DHS_data/input/IA_2015-16_DHS/IAGE71FL_GeoData_shp/IAGE71FL.shp
 
 * 2019 Children's Recode: IAKR7EDT.ZIP	(81.0 MB, Stata dataset) to
-  * 0_input/DHS_data/input/IA_2019-21_DHS/IAKR7DDT_Children_Stata/IAKR7DFL.DTA
+  * 0_input/DHS_data/input/IA_2019-21_DHS/IAKR7EDT_Children_Stata/IAKR7DFL.DTA
 * 2019 Individual (Women) Recode: IAIR7EDT.ZIP (376 MB, Stata dataset) to
   * 0_input/DHS_data/input/IA_2019-21_DHS/IAIR7EDT_Women_Stata/IAIR7EFL.DTA
 * 2019 Men's Recode: IAMR7E.ZIP	(23.0 MB, Stata dataset) to
