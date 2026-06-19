@@ -110,3 +110,6 @@ loaded via a namespace (and not attached):
 [64] glue_1.8.0             jsonlite_2.0.0         R6_2.6.1              
 [67] units_1.0-1            systemfonts_1.3.2 
 
+## Acknowledgements
+
+We thank Émile Chaput for his suggestions on how to improve the code used to create Figures C2 through C7. 
